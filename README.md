@@ -1,5 +1,7 @@
 # Contracts
 
+# Polygon Chain
+
 WizardToken: [0xe42D6c31904dF0930Cbc1b40dD30c34B12FfE30C](https://polygonscan.com/token/0xe42d6c31904df0930cbc1b40dd30c34b12ffe30c)
 
 WizardMasterChef: [0xa01891d1B897eB259da3A56f71B6D429599eCF76](https://polygonscan.com/address/0xa01891d1b897eb259da3a56f71b6d429599ecf76)
